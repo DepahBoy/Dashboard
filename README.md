@@ -1,7 +1,8 @@
 ## Demo here :
 
+![Dashbord](https://github.com/DepahBoy/Dashboard/assets/148239149/98585e91-a36c-4c7b-ad14-e6a7eef10508)
 
-![dash](https://github.com/DepahBoy/Dashboard/assets/148239149/c1c88068-fde6-4c7a-97b2-18b09203aeba)
+
 # Dashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
